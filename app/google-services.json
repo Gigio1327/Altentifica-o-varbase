@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084358557538",
+    "project_id": "projeto-senai-082",
+    "storage_bucket": "projeto-senai-082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084358557538:android:9a1ca93cce683e043bb63b",
+        "android_client_info": {
+          "package_name": "com.example.varbase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkGARD7m_VjSxIOaezXFmuqD8dUxhsXy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
